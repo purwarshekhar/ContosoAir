@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/shekharpurwar0945/Shekhar%20Devops%20Learn/_apis/build/status/purwarshekhar.ContosoAir?branchName=master)](https://dev.azure.com/shekharpurwar0945/Shekhar%20Devops%20Learn/_build/latest?definitionId=16&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
